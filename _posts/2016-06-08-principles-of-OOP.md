@@ -1,4 +1,12 @@
-**PRINCIPLES OF OOP**<br />
+---
+layout: post
+title: principles of OOP
+---
+
+
+
+
+
 
 The Objects Oriented Programming (OOP) is constructed over four major principles:
 **Encapsulation**, **Data Abstraction**, **Polymorphism** and **Inheritance**.<br />
