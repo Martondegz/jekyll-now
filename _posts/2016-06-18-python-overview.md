@@ -8,6 +8,7 @@ title: Python overview
 **What is Python?** **Executive Summary**
 **Python**<br /> 
 Was developed by Guido van Rossum in the late eighties and early nineties at the National Research Institute for Mathematics and Computer Science in the Netherlands.<br  />
+
 Python is derived from many other languages, including ABC, Modula-3, C, C++, Algol-68, SmallTalk, and Unix shell and other scripting languages.<br />
 Python is copyrighted. Like Perl, Python source code is now available under the GNU General Public License (GPL).<br />
 Python is now maintained by a core development team at the institute, although Guido van Rossum still holds a vital role in directing its progress.<br />
