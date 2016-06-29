@@ -1,0 +1,11 @@
+
+**Back-End**
+
+The back-end, or the **server-side**, is basically how the site works, updates and changes.<br />
+This refers to everything the user can’t see in the browser,like **databases** and **servers**.<br />
+
+Usually people who work on the back-end are called programmers or developers. Back-end developers are mostly worried about things like **security**, structure and content management.  They usually know and can use languages like HTML and CSS, but that’s definitely not their focus.<br />
+
+Back-end developers, or at least back-end development, is required to create a dynamic site. A dynamic site is a site that’s constantly changing and updated in real-time. Most sites are dynamic sites, as opposed to static sites.  Facebook, Google Maps and this blog are all considered dynamic sites.<br />
+
+Blogs are dynamic sites, since their content is constantly changing and updating. A dynamic site requires a database to work properly.  All  information, like user profiles or  images they’ve uploaded, or blog posts, are stored in the database. Web developers work with programming languages like PHP or .Net, since they need to work with something the database understands. The code they write communicates with the server and then tells the browser what to use from the database.<<br />
